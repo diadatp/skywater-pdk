@@ -1,0 +1,8 @@
+Layer	Contact Resistance (mohms)
+LICON to poly	152000
+LICON to diff/tap	15000
+MCON contact	9300
+VIA	4500
+VIA2	3410
+VIA3	3410
+VIA4	380

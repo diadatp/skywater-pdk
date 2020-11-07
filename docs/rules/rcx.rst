@@ -44,11 +44,15 @@ This section includes tables of basic resistance values for SKY130.
 
 Further data can be found in the `"SKY130 Stackup Capacitance Data" spreadsheet`_.
 
-.. csv-table:: Table - Resistances
-   :file: rcx/resistance-values.tsv
+.. csv-table:: Table - Sheet Resistances
+   :file: rcx/resistance-values-sheet.tsv
    :header-rows: 1
    :delim: U+0009
 
+.. csv-table:: Table - Contact Resistances
+   :file: rcx/resistance-values-contact.tsv
+   :header-rows: 1
+   :delim: U+0009
 
 Capacitance Rules
 -----------------
